@@ -1,0 +1,6 @@
+{
+envs:
+"dev":"development tasks",
+"qa":"testing tasks",
+"prod":"production env real database"
+}
